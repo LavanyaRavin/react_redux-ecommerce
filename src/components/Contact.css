@@ -1,0 +1,25 @@
+.signin {
+  background-color: rgb(212, 40, 69) !important;
+  color: white !important;
+  box-shadow: 2px 4px 5px black;
+}
+
+.contact {
+  background-color: rgb(237, 197, 197);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+button {
+  margin: 20px;
+}
+
+input,
+textarea {
+    width: 30px;
+    margin: 20px;
+}

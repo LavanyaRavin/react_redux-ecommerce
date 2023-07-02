@@ -1,0 +1,16 @@
+.about{
+    background-image: linear-gradient(to bottom right, rgb(97, 186, 97), yellow);
+    width:100%;
+    min-height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about h1{
+    font-weight: bolder;
+}
+
+.about p{
+    font-weight: 600;
+}

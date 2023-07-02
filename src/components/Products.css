@@ -1,0 +1,38 @@
+.card-img-top{
+    margin-top:10px;
+    width:160px;
+    height:130px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px ;
+    
+}
+.allcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card{
+    width:200px;
+    height:250px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 2px black;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight:300;
+    text-align: center;
+}
+
+.addTo{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+

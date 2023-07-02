@@ -1,0 +1,16 @@
+.info{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ca-title{
+    font-size:40px;
+    text-shadow: 1px 1px 3px black;
+}
+
+.ca-text {
+font-size:20px;
+font-weight: 500 ;
+}
